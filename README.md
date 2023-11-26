@@ -1,5 +1,6 @@
 # BT4012_06
 This is the repository for BT4012 Team 06
+Fake Job Postings Detection: Leveraging Machine Learning for Enhanced Accuracy and Timely Intervention
 
 ## Project Description
 Detecting and preventing fake job postings carries significant social and business implications. On the social front, firstly, it protects job seekers from falling victim to fraudulent activities, as fake job postings can lead to financial scams and identity theft. Secondly, it helps job platforms to maintain user trust. If the platform is plagued by fake job postings, users may lose confidence in the platform's reliability, affecting its reputation. On the other hand, in the business realm, identifying fake job postings early on helps optimize resources for both job seekers and recruiters. It ensures that real opportunities receive the attention they deserve and that job seekers are not wasting time on deceptive postings.
