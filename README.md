@@ -11,7 +11,7 @@ However, this endeavor is challenged by fraudsters who employ sophisticated tech
 Kaggle Link: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction/data <br>
 GitHub Link: https://github.com/TGtongga/BT4012_06 <br>
 Google Drive Links: <br>
-Raw and Intermediate Datasets Folder: Data: https://drive.google.com/drive/folders/1yuVKa3U6goJux8upoziW41hbIPHx4Jjg?usp=drive_link <br>
+Raw and Intermediate Datasets Folder: https://drive.google.com/drive/folders/1yuVKa3U6goJux8upoziW41hbIPHx4Jjg?usp=drive_link <br>
 Data Preprocessing & EDA.ipynb: https://drive.google.com/file/d/1QISfz6WPFQr4majhGH4nXEd_lc0myBXn/view?usp=drive_link <br>
 Feature engineering: <br>
 Feature Engineering 1.ipynb: https://colab.research.google.com/drive/17p3BVXGKawRks9aWat93OoEV6MvvMbq4?ouid=115351089690338364829&usp=drive_link <br>
