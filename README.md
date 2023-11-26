@@ -1,5 +1,5 @@
 # BT4012_06
-This is the repository for BT4012 Team 06
+This is the repository for BT4012 Team 06 <br>
 Fake Job Postings Detection: Leveraging Machine Learning for Enhanced Accuracy and Timely Intervention
 
 ## Project Description
